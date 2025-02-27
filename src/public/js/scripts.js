@@ -73,6 +73,7 @@ function select_provincia() {
             map_registro.setZoom(10);
         }
     });
+    
     $('#anuncio_canton')
         .find('option')
         .remove()
